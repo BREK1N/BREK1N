@@ -6,10 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BREK1N&layout=compact&langs_count=7&theme=dark"/>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="BREK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  <img align="right" alt="BREK-GIF" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/903712792379523115/909153358286303282/photo.gif"> 
-</div>
   
   ##
  <div> 
